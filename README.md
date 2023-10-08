@@ -3,6 +3,7 @@ Spring Boot 3.1.4
 A Simple Spring Boot Application integration with Drools 
 
 Check the drl files in resources/rules folder
+
 This example loads all drl files 
 
 http://localhost:8080/api/getDiscount
